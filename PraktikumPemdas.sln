@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PraktikumPemdas", "PraktikumPemdas\PraktikumPemdas.vcxproj", "{30D80DF4-0673-4EF2-A24B-217CBC647595}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Praktikum Part2", "Praktikum Part2\Praktikum Part2.vcxproj", "{04CEC94D-5BE2-4FEF-AE0C-23D289FCAA85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{30D80DF4-0673-4EF2-A24B-217CBC647595}.Release|x64.Build.0 = Release|x64
 		{30D80DF4-0673-4EF2-A24B-217CBC647595}.Release|x86.ActiveCfg = Release|Win32
 		{30D80DF4-0673-4EF2-A24B-217CBC647595}.Release|x86.Build.0 = Release|Win32
+		{04CEC94D-5BE2-4FEF-AE0C-23D289FCAA85}.Debug|x64.ActiveCfg = Debug|x64
+		{04CEC94D-5BE2-4FEF-AE0C-23D289FCAA85}.Debug|x64.Build.0 = Debug|x64
+		{04CEC94D-5BE2-4FEF-AE0C-23D289FCAA85}.Debug|x86.ActiveCfg = Debug|Win32
+		{04CEC94D-5BE2-4FEF-AE0C-23D289FCAA85}.Debug|x86.Build.0 = Debug|Win32
+		{04CEC94D-5BE2-4FEF-AE0C-23D289FCAA85}.Release|x64.ActiveCfg = Release|x64
+		{04CEC94D-5BE2-4FEF-AE0C-23D289FCAA85}.Release|x64.Build.0 = Release|x64
+		{04CEC94D-5BE2-4FEF-AE0C-23D289FCAA85}.Release|x86.ActiveCfg = Release|Win32
+		{04CEC94D-5BE2-4FEF-AE0C-23D289FCAA85}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
